@@ -9,6 +9,9 @@ End [block 6000000](https://www.mintscan.io/neutron/block/6000000), about a mont
 
 The only way to create $BAD is to claim your BadDrop.
 
+All unclaimed $BAD will be locked in Bad Contract forever
+
+
 
 
 # What is $Bad?
