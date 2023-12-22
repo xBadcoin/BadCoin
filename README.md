@@ -3,7 +3,7 @@ Start now
 
 End [block 6000000](https://www.mintscan.io/neutron/block/6000000), about a month.
 
-[Bad Contract is controlled by no one.](https://www.mintscan.io/neutron/tx/A16F7F10DDD3BB0DF73EA6BBB0FE2FC45B3E3606AA86E21E089826ED3722BF69?height=5418917)
+[Bad Contract is controlled by no one.](https://www.mintscan.io/neutron/tx/0254216FC80CC280801C7C0F776DBB57D53B88F832ABADBDFE86886174FC24C5?height=5419089)
 
 [$Bad  is controlled by no one.](https://www.mintscan.io/neutron/tx/A16F7F10DDD3BB0DF73EA6BBB0FE2FC45B3E3606AA86E21E089826ED3722BF69?height=5418917)
 
