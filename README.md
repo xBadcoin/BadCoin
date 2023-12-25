@@ -21,6 +21,23 @@ Fully distributed to @badkidsart and @bitkidsart holders.
 
 Not affiliated with @badkidsart.
 
+# Tokenomic of $BAD  
+
+Useless meme coins
+
+Genesis total supply: 11,000,000,000 
+
+Per Badkids nft is eligible for 1,000,000 $BAD
+
+Per Bitkids nft is eligible for 100,000 $BAD
+
+Genesis total supply is all in Bad Contract. And it can't be minted more.
+
+The only way to create $BAD in circulation is to claim your BadDrop.
+
+All unclaimed $BAD will be locked in Bad Contract forever.
+
+
 # What is Bad Contract?
 Fork from https://github.com/CosmWasm/cw-tokens/tree/main/contracts/cw20-merkle-airdrop.
 
